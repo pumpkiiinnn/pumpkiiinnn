@@ -37,4 +37,3 @@ I'm always open to collaborating on exciting projects or engaging in insightful 
 **Latest Blog Posts:**
 
 * [Telegram 频道克隆方案：基于 Telethon 的自动化工具](https://www.zoey.asia/posts/8)
-* [学习 Rust 🦀 的第一周](https://www.zoey.asia/posts/7)
