@@ -1,4 +1,4 @@
-Hello! 👋 I'm Zoey (@pumpkiiinnn), a 24-year-old Backend Developer based in Shenzhen, China 🇨🇳.
+Hi! 👋 I'm **Zoey** ([@pumpkiiinnn](https://github.com/pumpkiiinnn)), a 24-year-old Backend Developer based in Shenzhen, China 🇨🇳.
 
 **Core Expertise:**
 
