@@ -2,7 +2,7 @@ Hi! 👋 I'm **Zoey** ([@pumpkiiinnn](https://github.com/pumpkiiinnn)), a 24-yea
 
 **Core Expertise:**
 
-My primary focus is **Java** ☕ backend development. I'm proficient in frameworks like Spring Boot and have experience with various database technologies (e.g., MySQL, PostgreSQL, Redis).
+My primary focus is **Java** ☕ backend development. I'm proficient in frameworks like Spring Boot and have experience with various database technologies .
 
 **Expanding Skillset:**
 
@@ -15,7 +15,7 @@ While Java is my bread and butter, I'm constantly seeking new challenges and exp
 
 **Beyond the Code:**
 
-When I'm not immersed in code, you can find me exploring the world through the lens of my camera 📷. Photography 🏞️ is my passion; it allows me to capture the beauty of everyday moments and share them with the world.  I also enjoy [mention 1-2 other hobbies or interests].
+When I'm not immersed in code, you can find me exploring the world through the lens of my camera 📷. Photography 🏞️ is my passion; it allows me to capture the beauty of everyday moments and share them with the world.
 
 
 **Let's Connect!**
